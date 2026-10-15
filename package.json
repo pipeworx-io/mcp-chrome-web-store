@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-chrome-web-store",
+  "version": "0.1.0",
+  "description": "Chrome Web Store — public extension listing data: a single extension by id, free-text search, and extensions by a publisher. Fleet #3087.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-chrome-web-store": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "chrome-web-store"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-chrome-web-store.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-2f5c49256480bd9d683372036ea5812f6aed06220ff3a707bfff13ac63c32d26",
+    "sourceCommit": "8dbe088fb6f9d2c88f934173742329b4e20a67d6"
+  }
+}

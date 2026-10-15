@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/chrome-web-store",
+  "title": "Chrome Web Store",
+  "description": "Chrome Web Store — public extension listing data: a single extension by id, free-text search, and…",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/chrome-web-store",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-chrome-web-store",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/chrome-web-store/mcp"
+    }
+  ]
+}
