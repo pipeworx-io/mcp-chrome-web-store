@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/chrome-web-store",
   "title": "Chrome Web Store",
   "description": "Chrome Web Store — public extension listing data: a single extension by id, free-text search, and…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/chrome-web-store",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-chrome-web-store",
