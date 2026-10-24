@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-chrome-web-store",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Chrome Web Store — public extension listing data: a single extension by id, free-text search, and extensions by a publisher. Fleet #3087.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c7b1bc1bb9fe929434802c7ea96b2c468371003786ee7de5ea447356bac4d35f",
-    "sourceCommit": "b0a4b8e2f3f5b3a4c3f9f2c9a73f91b20d32ce11"
+    "sourceHash": "v1-ed7804bf94b292e84b4cd9f949249da35bd96bd4bc2c00be5565967ac2604ab9",
+    "sourceCommit": "f1ef7a2f6b9cb1b8da1374ec2fcb28c661582b35"
   }
 }
