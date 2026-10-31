@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-chrome-web-store",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Chrome Web Store — public extension listing data: a single extension by id, free-text search, and extensions by a publisher. Fleet #3087.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "chrome-web-store",
     "gatewaySlug": "chrome-web-store",
-    "sourceHash": "v1-33d340e0d9a16410803dce9c1549da393e1c46c97daf7e72ae66a62203c95c32",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-02329339660d8c76c4baa5d19c0c41a40b0cf4db22f5b2c665a464bfbd6bafba",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
